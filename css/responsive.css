@@ -1,0 +1,29 @@
+/* 
+.bagan {
+    width: 1150px;
+    margin: auto;
+    background-color: white;
+}
+
+.nav-bar {
+    height: 130px;
+    padding-top: 25px;
+    border-bottom: 1px rgb(103, 110, 104) solid;
+    z-index: 999999;
+    overflow: hidden;
+    background-color:  rgb(255, 255, 255);
+    position: fixed; 
+    top: 0; 
+    width: 1150px;
+}
+
+.gambar img {
+    background-color: red;
+    width: 600px;
+    height: 560px;
+    margin-top: -10px;
+}
+
+
+
+     */
